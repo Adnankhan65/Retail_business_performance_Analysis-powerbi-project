@@ -174,7 +174,8 @@ This dashboard can help businesses:
 - 📊 Power BI Dashboard: `Retail-Dashboard.pbix`
 - 🖼️ Dashboard Preview:
 
-![Dashboard](images/dashboard.png)
+
+🔗 [View Dashboard](https://github.com/Adnankhan65/Retail_business_performance_Analysis-powerbi-project/blob/main/RETAIL_BUSINESS_PERFORMANCE%20DASHBOARD.png)
 
 ## 👨‍💻 About Me
 
