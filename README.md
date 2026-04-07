@@ -8,6 +8,10 @@ The dashboard enables stakeholders to quickly monitor key business metrics, iden
 
 ---
 
+## MODEL VIEW [RELATIONSHIP] OF DATASET
+
+![Model View](MODEL%20VIEW.png)
+
 ## 🎯 Objective
 
 The goal of this dashboard is to:
